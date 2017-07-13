@@ -1,2 +1,2 @@
 # hello-world
-First attempt  in programming
+First attempt  at programming
